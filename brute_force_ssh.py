@@ -40,6 +40,7 @@ class SSHBruteClient:
             print(f'Testing Password: {self.password}')
         else:
             print(f'[+] Password Found [+] : {self.password}')
+            quit()
         self.ssh_client.close()
 
 def main():
