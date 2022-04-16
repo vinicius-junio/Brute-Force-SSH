@@ -26,7 +26,7 @@ Doc: https://docs.paramiko.org/en/stable/index.html
 How To Use
 ============
 - Put the wordlist in the wordlist folder and rename the file to "wordlist.txt";
-- How to Use: python brute_force_ssh.py [target] [user].
+- How to Use: python [script] [target] [user].
 
 
 
